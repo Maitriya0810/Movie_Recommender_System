@@ -67,5 +67,3 @@ Source: **TMDB 5000 Movie Dataset (Kaggle)**
 ---
 
 
-git clone https://github.com/your-username/movie-recommender-system.git
-cd movie-recommender-system
